@@ -74,3 +74,4 @@ VideoPipe.prototype.close = function() {
   this.pc1.close();
   this.pc2.close();
 };
+
