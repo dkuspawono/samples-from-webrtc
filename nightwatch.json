@@ -81,11 +81,11 @@
             "device.storage.enabled": false,
             "media.gstreamer.enabled": false,
             "browser.startup.homepage": "about:blank",
-            "browser.startup.firstrunSkipsHomepage": false,
-            "extensions.update.enabled": false,
-            "app.update.enabled": false,
+            "browser.startup.firstrunSkipsHomepage": true,
+            "extensions.update.enabled": true,
+            "app.update.enabled": true,
             "network.http.use-cache": false,
-            "browser.shell.checkDefaultBrowser": false
+            "browser.shell.checkDefaultBrowser": true
           }
         }
       }
